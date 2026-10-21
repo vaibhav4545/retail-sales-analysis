@@ -6,7 +6,13 @@ An end-to-end data analyst project: **Python (cleaning) -> MySQL (analysis) -> P
 
 ## Dashboard
 
-*(Add your screenshots here, for example `![Final dashboard](screenshots/final_dashboard.png)`)*
+*![Final dashboard](screenshots/final_dashboard.png)
+
+### Other pages
+
+![Overview](screenshots/page_overview.png)
+![Customers and bills](screenshots/page_customers_bills.png)
+![Key insights](screenshots/page_key_insights.png)*
 
 The main page has a **zone slicer and a month slicer** that filter the KPI cards, monthly trend, product chart and a **weekday x month sales-intensity heatmap**.
 
